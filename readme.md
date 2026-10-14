@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a UI/UX designer and creative professional based in Egypt, founder of **Aware Solutions** — a digital services agency building web apps, mobile apps, and AI-powered systems for clients across Egypt and the Arab world.
+I'm a UI/UX designer and creative professional based in Egypt, building web apps, mobile apps, and AI-powered systems for clients across Egypt and the Arab world.
 
 I work through **AI-assisted "vibe coding"** — turning ideas into shipped products fast using tools like Cursor, Codex, and opencode, while keeping a strong focus on design quality, UX thinking, and visual polish.
 
@@ -23,6 +23,7 @@ I work through **AI-assisted "vibe coding"** — turning ideas into shipped prod
 - 📱 Currently building **هو كل يوم أكل** — an Egyptian Arabic recipe app with AI voice narration
 - 🌱 Growing my career in UI/UX design, one shipped project at a time
 - 🎬 Exploring AI-generated motion graphics and product video production
+- 🤝 Interested in customer service — see below
 
 ---
 
@@ -45,11 +46,23 @@ I work through **AI-assisted "vibe coding"** — turning ideas into shipped prod
 
 | Project | Description |
 |---|---|
-| [**How-kol-yom-akl**](https://github.com/mostafaibrahem847-sudo/How-kol-yom-akl) | Egyptian Arabic recipe app with AI voice narration, built with React Native & Expo |
-| [**autocar**](https://github.com/mostafaibrahem847-sudo/autocar) | TypeScript project — automotive-focused build |
-| [**Naawah**](https://github.com/mostafaibrahem847-sudo/Naawah) | Product build exploring design + AI-assisted development |
-| [**Nawah**](https://github.com/mostafaibrahem847-sudo/Nawah) | Companion project to Naawah |
-| [**Expo-Expert-Skills**](https://github.com/mostafaibrahem847-sudo/Expo-Expert-Skills) | Expo/React Native development skills & workflows |
+| [**How-kol-yom-akl**](https://github.com/mostafaibrahem847-sudo/How-kol-yom-akl) | Voice-first Egyptian Arabic recipe app with AI narration, built with React Native & Expo |
+| [**autocar**](https://github.com/mostafaibrahem847-sudo/autocar) | Car showroom web app with listings, car details, contact form and an admin dashboard — [live](https://autocar-chi.vercel.app) |
+| [**Apex-Logistics**](https://github.com/mostafaibrahem847-sudo/Apex-Logistics) | Next.js logistics landing site — [live](https://apex-logistics-two.vercel.app) |
+| [**landing-page-erb**](https://github.com/mostafaibrahem847-sudo/landing-page-erb) | Arabic (RTL) marketing landing page for MobilePro ERP, a retail & repair-shop management system — [live](https://landing-page-erb.vercel.app) |
+| [**Expo-Expert-Skills**](https://github.com/mostafaibrahem847-sudo/Expo-Expert-Skills) | Agent skills for Expo / React Native development, written for AI coding agents |
+
+---
+
+## 🤝 Customer Service
+
+Alongside design and development, I'm genuinely interested in **customer service** — listening to people, understanding what they actually need, and following through until the problem is really solved.
+
+- 🎧 People-first — I like being the person a customer can rely on for a clear answer and a real fix
+- 💬 Clear communication in both **Arabic and English**, patient and jargon-free
+- 🧭 Calm under pressure, with a problem-solving mindset and proper follow-up
+- 📋 Organized with tickets, notes and documentation so nothing gets lost
+- 🎨 A design background that helps — understanding the product deeply makes support faster and more helpful
 
 ---
 
